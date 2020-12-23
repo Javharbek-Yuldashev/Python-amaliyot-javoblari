@@ -40,11 +40,11 @@
 
 # 5
 
-# son = int(input("Son kiriting: "))
-# if son > 0:
-#     print(f"{son} ning ildizi {son**(1/2)} ga teng")
-# else:
-#     print("Musbat son kiriting!")
+son = int(input("Son kiriting: "))
+if son > 0:
+    print(f"{son} ning ildizi {son**(1/2)} ga teng")
+else:
+    print("Musbat son kiriting!")
 
 
 
