@@ -13,19 +13,19 @@
 
 # 3
 
-print("Sevimli kinoyingiz qaysi ?") 
-kinolar = []
-for n in range(5):
-    kinolar.append(input(f"{n+1} - kino nomi: \n"))
-print(kinolar)
+# print("Sevimli kinoyingiz qaysi ?") 
+# kinolar = []
+# for n in range(5):
+#     kinolar.append(input(f"{n+1} - kino nomi: \n"))
+# print(kinolar)
 
 # 4
 
-# uchrashuvlar_soni = int(input("Bugun nechta odam bilan uchrashtingiz? \n>>> "))
-# ismlar = []
-# for n in range(uchrashuvlar_soni):
-#     ismlar.append(input(f"{n+1} - suhbatdoshingiz ismi? \n>>>"))
-# print(ismlar)
+uchrashuvlar_soni = int(input("Bugun nechta odam bilan uchrashtingiz? \n>>> "))
+ismlar = []
+for n in range(uchrashuvlar_soni):
+    ismlar.append(input(f"{n+1} - suhbatdoshingiz ismi? \n>>>"))
+print(ismlar)
 
 
 
