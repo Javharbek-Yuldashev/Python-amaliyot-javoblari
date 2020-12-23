@@ -6,11 +6,11 @@
 
 # 2
 
-# sonlar = [3, 5, -9, 4.6]
-# sonlar[0] = sonlar[0] + 7
-# sonlar[3] = sonlar[3] +4.4
-# sonlar.append(123)
-# sonlar.insert(2, 13.2)
+sonlar = [3, 5, -9, 4.6]
+sonlar[0] = sonlar[0] + 7
+sonlar[3] = sonlar[3] +4.4
+sonlar.append(123)
+sonlar.insert(2, 13.2)
 
 # 3
 
@@ -20,17 +20,17 @@
 
 # 4
 
-friends = []
-friends.append("Abubakr (r.a)")
-friends.append("Hazrati Usmon (r.a)")
-friends.append("Hazrati Umar (r.a)")
-friends.append("Hazrati Ali (r.a)")
-# print(friends)
-friends.insert(0, "Muhammad (s.a.v)")
-friends.append("Umar ibn Abdulaziz")
-# print(friends)
+# friends = []
+# friends.append("Abubakr (r.a)")
+# friends.append("Hazrati Usmon (r.a)")
+# friends.append("Hazrati Umar (r.a)")
+# friends.append("Hazrati Ali (r.a)")
+# # print(friends)
+# friends.insert(0, "Muhammad (s.a.v)")
+# friends.append("Umar ibn Abdulaziz")
+# # print(friends)
 
-mehmonlar =[]
-mehmonlar.append(friends.pop(0))
-mehmonlar.append("Jabroil alayhissalom")
-print(mehmonlar)
+# mehmonlar =[]
+# mehmonlar.append(friends.pop(0))
+# mehmonlar.append("Jabroil alayhissalom")
+# print(mehmonlar)
